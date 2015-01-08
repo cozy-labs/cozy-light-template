@@ -7,14 +7,14 @@ application Cozy Light Application.
 
 Clone this repository, install dependencies and run server (it requires Node.js)
 
-    git clone git://github.com/mycozycloud/cozy-template.git
+    git clone git://github.com/cozy-labs/cozy-light-template.git
     cd cozy-light-template
     npm install
     node server.js
 
 ## What is Cozy Light
 
-![Cozy Logo](https://raw.github.com/mycozycloud/cozy-setup/gh-pages/assets/images/happycloud.png)
+![Cozy Logo](https://raw.github.com/cozy/cozy-setup/gh-pages/assets/images/happycloud.png)
 
 [Cozy Light](http://cozy-labs.github.io/cozy-light) allows you to deal, without effort, with many self-hosting use cases
 like turning your server into a file storage, hosting your static website or
